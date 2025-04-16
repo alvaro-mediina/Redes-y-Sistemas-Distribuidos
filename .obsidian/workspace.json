@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "d2436163c9a0750b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2e1db8aac105985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32870ca628eea34c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧐 Teórico 📝/🙂‍↕️ Sistemas Operativos de Red.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🙂‍↕️ Sistemas Operativos de Red"
+            }
+          },
+          {
+            "id": "22929ac4bb1266a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧐 Teórico 📝/🕹️ Capa de Aplicación 🧩.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🕹️ Capa de Aplicación 🧩"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d5acf264165208f",
+    "type": "split",
+    "children": [
+      {
+        "id": "adb1cd51f67a1690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dc57ee4f460ea02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "bd48ae54e6bb079f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "d84f52fe1fdb20dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "fa53c70422f5d59e",
+    "type": "split",
+    "children": [
+      {
+        "id": "04a33a70eaf557ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2f663e755c2692d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🧐 Teórico 📝/🖲️ Introducción 🧸.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 🖲️ Introducción 🧸"
+            }
+          },
+          {
+            "id": "71a54950922f4718",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "0bb45ee03c934cb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "773ce4fd1243b164",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "22929ac4bb1266a6",
+  "lastOpenFiles": [
+    "🧐 Teórico 📝/🖲️ Introducción 🧸.md",
+    "🧐 Teórico 📝/🚗 Capa de Transporte.md",
+    "🧐 Teórico 📝/🧐 Resumen Filminas 🌉.md",
+    "🧐 Teórico 📝/🙂‍↕️ Sistemas Operativos de Red.md",
+    "🧐 Teórico 📝/🕹️ Capa de Aplicación 🧩.md",
+    "📚 Libros de la materia/Redes de Commputadoras - Tanembaum.pdf",
+    "Pasted image 20250408151940.png",
+    "Pasted image 20250408145807.png",
+    "Pasted image 20250408150316.png",
+    "Pasted image 20250408150314.png",
+    "Pasted image 20250408145836.png",
+    "📚 Libros de la materia/Filminas-Introducción.pdf",
+    "📋 Cronograma de la Materia 🗂️.md",
+    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/parser_commmand.py",
+    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/command.py",
+    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/server.py",
+    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/server-test.py",
+    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/constants.py",
+    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/connection.py",
+    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/client.py",
+    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/README.md",
+    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03",
+    "Sin título 1.md",
+    "templ/Hola Mundo.md",
+    "Sin título.md",
+    "🧐 Teórico 📝/imgs/image.png",
+    "🧐 Teórico 📝/image.png",
+    "🧐 Teórico 📝/imgs/Pasted image 20250330214626.png",
+    "🧐 Teórico 📝/imgs/1.png",
+    "🧐 Teórico 📝/imgs/Pasted image 20250323214407.png",
+    "🧪 Laboratorios 🧪/🧪Lab0/🧪Lab0 - Aplicación Cliente 🧪.md",
+    "🧪 Laboratorios 🧪/🧪 Laboratorios 🧪.md",
+    "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/venv/lib/python3.12/site-packages/flask/sansio/README.md",
+    "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/venv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
+    "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/venv/lib/python3.12/site-packages/idna-3.6.dist-info/LICENSE.md",
+    "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/README.md",
+    "🧪 Laboratorios 🧪/repo/Lab1-Redes/README.md",
+    "🧪 Laboratorios 🧪/🧪Lab1/🧪Lab1 - Desarrollo de una API 🧪.md",
+    "🤓 Conceptos Teóricos Importantes 📚.md",
+    "🤓 Redes y Sistemas Distribuidos 😲.md",
+    "🧪 Laboratorios 🧪/🧪Lab1/venv/lib/python3.12/site-packages/flask/sansio/README.md",
+    "🧪 Laboratorios 🧪/🧪Lab1/venv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
+    "🧪 Laboratorios 🧪/🧪Lab1/venv/lib/python3.12/site-packages/idna-3.6.dist-info/LICENSE.md",
+    "🧪 Laboratorios 🧪/🧪Lab1/README.md",
+    "🧪 Laboratorios 🧪/Lab1/README.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "accentColor": "#c90d33",
+  "textFontFamily": "Montserrat",
+  "interfaceFontFamily": "Montserrat",
+  "nativeMenus": false,
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true
+}
