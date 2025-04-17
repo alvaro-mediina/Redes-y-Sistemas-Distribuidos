@@ -38,11 +38,11 @@
 - [x] **Mar 8/4/2025** - Transporte parte 3
 
 ## **Parcial**
-- [ ] **Jue 10/4/2025** - Parcial modelo / consulta
+- [x] **Jue 10/4/2025** - Parcial modelo / consulta
 
 ## Semana Santa
-- [ ] **Mar 15/4/2025** - Semana santa
-- [ ] **Jue 17/4/2025** - Semana santa
+- [x] **Mar 15/4/2025** - Semana santa
+- [x] **Jue 17/4/2025** - Semana santa
 
 ## **Parcial**
 - [ ] **Mar 22/4/2025** - Evaluación parcial 1
