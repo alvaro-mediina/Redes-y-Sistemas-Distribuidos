@@ -179,7 +179,7 @@
 
 - Se utiliza **multi-threading** para el manejo de múltiples solicitudes a un archivo/distintos archivos realizadas por múltiples clientes.
 
-## 🌐🕸️ Cookies
+## 🌐🍪 Cookies
  - El problema de persistir en sesiones de una página web se solucionan con **cookies**. Es como una especie de IP para localizar tu información entre sesiones web.
  - Puede contener **5 campos**:
 	 -  **Dominio**: De dónde viene la cookie
@@ -251,12 +251,54 @@
 	- **Proveer información de eventos**.
 	- **Proveer datos de la sesión**.
 
+Algunos encabezados:
+- **User-Agent** permite que el cliente informe al servidor sobre la implementación de su navegador (por ejemplo, Mozilla/5.0 y Chrome/5.0.375.125). Esta información es útil para que los servidores puedan ajustar sus respuestas para el navegador.
+- **Accept**, los cuatro encabezados indican al servidor lo que el cliente está dispuesto a aceptar en caso de que tenga un repertorio limitado de lo que es aceptable.
+- **Host** da nombre al servidor. Se utiliza porque algunas direcciones IP pueden proporcionar varios nombres DNS y el servidor necesita una forma para saber a qué host debe entregar la solicitud.
+- **Authorization** es necesario para páginas que están protegidas. En este caso, tal vez el cliente debe probar que tiene permiso para ver la página solicitada
+- **Set-Cookie** es la forma en que los servidores envían cookies a los clientes. Debe guardar la cookie y regresarla en las solicitudes posteriores al servidor, mediante el uso del encabezado **Cookie**.
+
+En la comunicación request-response de browser al servidor, cuando se utilizan cookies, normalmente se tienen los encabezados:
+- **HOST**
+- **USER-AGENT**
+- **ACCEPT**
+- **CONNECTION**
+
 # 🌍🔗HTML
 
 # 🖇️ Capa de aplicación de blockchain
  - Tener en cuenta los videos de YT, aquellos que explican "por encima" el uso de la blockchain. De todo lo que se habló hoy en clases es básicamente el contenido de los videos, i.e Capa de aplicación.
-## 🖇️ Protocolos base
-## 🖇️🪙 Bitcoin
+## 🖇️ Protocolos base (Requisitos)
+-  **Registro de transacciones**: Capacidad de almacenar transacciones. 
+- **Consistencia del estado del sistema**: Todos los participantes poseen el estado actual del sistema.
+- **Descentralización**: Operación sin autoridad central que controle el sistema.
+- **Inmutabilidad**: Una vez que las transacciones se agregan al registro, no pueden ser modificados ni eliminados.
+- **Seguridad**: Protección ante alteraciones y accesos no autorizados.
+- **Transparencia**: Todos los participantes deben poder ver y verificar las transacciones y los datos.
+- **Consenso**: Los nodos de la red deben acordar la validez de grupos de transacciones antes de agregarlas al registro.
+- **Escalabilidad - Privacidad - Rendimiento - Resiliencia  - Blockchain**
+
+## 🖇️Cadenas de bloques
+- Un bloque está estructurado por:
+	- **Encabezado**:
+		- **Hash del bloque**
+		- **Merkle Root**: hash que resume todas las transacciones dentro del bloque.
+		- **Nonce**: número aleatorio usado durante el proceso de minería para encontrar un hash válido.
+		- **TimeStamp**: Marca temporal indicando cuándo se creó el bloque.
+	- **Cuerpo del bloque**
+	- **Hash del bloque**: Identificador único del bloque generado mediante un **algoritmo criptográfico**
+- Cada bloque tiene:
+	- **Hash del bloque anterior**
+	- **Hash del bloque posterior**
+- Se usan mecanismos de consenso para asegurar que los nodos acuerden validez de los nuevos bloques.
+
+## 🖇️ Mecanismos de consenso
+- **Proof of Work**: Nodos mineros que compiten por resolver problemas criptográficos complejos. El primero en resolverlo valida un bloque y recibe recomensas.
+- **Proof of Stack**: Nodos validadores que son elegidos según su participación en la red. Verifican si las transacciones dentro de un bloque propuesto son válidas y cumplen con las reglas de red. Luego de validar las transacciones, los nodos validadores **crean nuevos bloques** y se repite el proceso tal que otros nodos validadores validan el nuevo bloque, si todo OK entonces se agrega a la blockchain y se reciben recompensas
+- **Delegated Proof of Stack**
+- **Byzantine Fault Tolerance**
+# 🖇️🪙 Bitcoin
+
 ### 🖇️🪙 Tipos de nodos 
 - Completos
 - Mineros
