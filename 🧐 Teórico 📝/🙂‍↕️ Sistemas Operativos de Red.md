@@ -241,11 +241,33 @@ Asegura la transmisión de datos confiable y ordenada en dispositivos.
 	- **Fiabilidad de la transmisión**
 	- **Compatibilidad de protocolo**
 	- **Control de flujo y control de congestión**
+-  **De internet**: **TCP, UDP**
+- **MQTT:** Comunicación en tiempo real, máquina a máquina
+	- Optimizado para redes con ancho de banda limitado
+	- Acorta los mensajes para mantener la eficiencia
 
-- **Protocolos**
-	-  **De internet**: **TCP, UDP**
-	- MQTT
-	- **CoAP**
+- **CoAP**: Dispositivos de recursos limitados con baja capacidad de procesamiento y memoria. Proporciona confirmaciones de entrega y retransmisión de mensajes perdidos.
+	- Optimizado para minimizar el uso del ancho de banda.
+	- Formato binario de mensajes compacto
+### 🚀 Capa de aplicación
+- **Protocolos** de la web: HTTP Y HTTPS
+	- **MQTT** Trabaja sobre TCP
+		- Trabaja sobre recursos *limitados*
+		- Facilita la comunicación entre diferentes fabricantes
+		- Modelo *publicar/suscribir*
+		- Usa *topicos* para la redirección de mensajes
+		- Utiliza un *broker*, un servidor, para la comunicación entre dispositivos
+	- **CoAP** Trabaja sobre UDP
+		- Como trabaja sobre IoT es para dispositivos de recursos *limitados*
+		- Modelo *cliente-servidor*
+		- Ligero y fácil de implementar
+		- Códigos de estado para las respuestas similares a HTTP
+		- URIS 
+
+
+#### 🚀MQTT
+
+#### 🚀CoAP
 
 ### 🚀 Capa de procesamiento y almacenamiento
 Es responsable de procesar, almacenar y analizar los datos recopilados por los dispositivos IoT.
