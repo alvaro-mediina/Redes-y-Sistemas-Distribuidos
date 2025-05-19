@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5935a1f37b6606f8",
+        "id": "b0493f524d34fa26",
         "type": "tabs",
         "children": [
           {
-            "id": "4fdac747b3cf34c2",
+            "id": "94d27c57edd1446f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧐 Teórico 📝/🚗 Capa de Transporte.md",
+                "file": "🤓 Redes y Sistemas Distribuidos 😲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🚗 Capa de Transporte"
+              "title": "🤓 Redes y Sistemas Distribuidos 😲"
+            }
+          },
+          {
+            "id": "7eee750ce9867c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧐 Teórico 📝/🧐 Resumen Filminas 🌉.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧐 Resumen Filminas 🌉"
+            }
+          },
+          {
+            "id": "fe468cc0b4564507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧐 Teórico 📝/🚗 Capa de Transporte - Problema de duplicados retrasados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🚗 Capa de Transporte - Problema de duplicados retrasados"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,52 +197,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4fdac747b3cf34c2",
+  "active": "fe468cc0b4564507",
   "lastOpenFiles": [
-    "🧐 Teórico 📝/🙂‍↕️ Sistemas Operativos de Red.md",
-    "🧐 Teórico 📝/🕹️ Capa de Aplicación 🧩.md",
-    "📋 Cronograma de la Materia 🗂️.md",
-    "🧐 Teórico 📝/🖇️ 📦 Capa de aplicación de blockchain.md",
+    "🧐 Teórico 📝/🚗 Capa de Transporte - Introducción y Transferencia de datos confiables.md",
+    "🧐 Teórico 📝/🚗 Capa de Transporte - Control de Flujo.md",
+    "🧐 Teórico 📝/🚗 Capa de transporte - Control de congestión.md",
     "🧐 Teórico 📝/🧐 Resumen Filminas 🌉.md",
-    "🧐 Teórico 📝/🖲️ Introducción 🧸.md",
-    "🧐 Teórico 📝/🚗 Capa de Transporte.md",
-    "🧐 Teórico 📝/imgs/encabezado.png",
-    "🧐 Teórico 📝/imgs/Pasted image 20250330214626.png",
-    "🧐 Teórico 📝/🚗Capa de Transporte.md",
     "🤓 Redes y Sistemas Distribuidos 😲.md",
     "🤓 Conceptos Teóricos Importantes 📚.md",
-    "📚 Libros de la materia/Redes de Commputadoras - Tanembaum.pdf",
+    "🧐 Teórico 📝/🖲️ Introducción 🧸.md",
+    "📚 Libros de la materia/Filminas-Introducción.pdf",
+    "📋 Cronograma de la Materia 🗂️.md",
+    "🧐 Teórico 📝/🔗 Capa de enlace de datos - Generalidades.md",
+    "🧐 Teórico 📝/🌐 Capa de red - Inundación.md",
+    "🧐 Teórico 📝/🌐 Capa de red 📡 - Introducción.md",
+    "🧐 Teórico 📝/🚗 Capa de Transporte - Problema de duplicados retrasados.md",
+    "🧐 Teórico 📝/🚗 Capa de transporte - 3.md",
+    "🧐 Teórico 📝/🕹️ Capa de Aplicación 🧩.md",
+    "🧐 Teórico 📝/🖇️ 📦 Capa de aplicación de blockchain.md",
+    "🧐 Teórico 📝/🙂‍↕️ Sistemas Operativos de Red.md",
+    "🧐 Teórico 📝/imgs/Pasted image 20250506155528.png",
+    "🧐 Teórico 📝/imgs/Pasted image 20250330214626.png",
+    "🧐 Teórico 📝/imgs/Pasted image 20250323214407.png",
+    "redes25lab3g03/redes25lab3g03",
+    "redes25lab3g03/out/clang-release/redes25lab3g03",
+    "redes25lab3g03/out/clang-release/redes25lab3g03.tmpaebf9dc",
+    "redes25lab3g03/out/clang-release/Sink.o",
+    "redes25lab3g03/out/clang-release/Sink.o.d",
+    "redes25lab3g03/out/clang-release/Sink-b01c4427.o.tmp",
+    "redes25lab3g03/out/clang-release/Queue.o",
+    "redes25lab3g03/out/clang-release/Queue.o.d",
+    "redes25lab3g03/out/clang-release/Queue-c5e809b1.o.tmp",
+    "🧐 Teórico 📝/imgs/encabezado.png",
+    "🧐 Teórico 📝/🚗Capa de Transporte.md",
     "Pasted image 20250408151940.png",
     "Pasted image 20250408145807.png",
     "Pasted image 20250408150316.png",
     "Pasted image 20250408150314.png",
     "Pasted image 20250408145836.png",
-    "📚 Libros de la materia/Filminas-Introducción.pdf",
-    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/parser_commmand.py",
-    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/command.py",
-    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/server.py",
-    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/server-test.py",
-    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/constants.py",
-    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/connection.py",
-    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/client.py",
     "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/README.md",
-    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03",
     "Sin título 1.md",
     "templ/Hola Mundo.md",
     "🧐 Teórico 📝/imgs/image.png",
-    "🧐 Teórico 📝/image.png",
-    "🧐 Teórico 📝/imgs/1.png",
     "🧪 Laboratorios 🧪/🧪Lab0/🧪Lab0 - Aplicación Cliente 🧪.md",
     "🧪 Laboratorios 🧪/🧪 Laboratorios 🧪.md",
     "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/venv/lib/python3.12/site-packages/flask/sansio/README.md",
     "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/venv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
-    "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/venv/lib/python3.12/site-packages/idna-3.6.dist-info/LICENSE.md",
-    "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/README.md",
-    "🧪 Laboratorios 🧪/repo/Lab1-Redes/README.md",
-    "🧪 Laboratorios 🧪/🧪Lab1/🧪Lab1 - Desarrollo de una API 🧪.md",
-    "🧪 Laboratorios 🧪/🧪Lab1/venv/lib/python3.12/site-packages/flask/sansio/README.md",
-    "🧪 Laboratorios 🧪/🧪Lab1/venv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
-    "🧪 Laboratorios 🧪/🧪Lab1/venv/lib/python3.12/site-packages/idna-3.6.dist-info/LICENSE.md",
-    "🧪 Laboratorios 🧪/🧪Lab1/README.md"
+    "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/venv/lib/python3.12/site-packages/idna-3.6.dist-info/LICENSE.md"
   ]
 }

@@ -1,0 +1,5 @@
+.markdown-preview-view .image-embed img,
+.markdown-preview-view img {
+  display: block;
+  margin: 1em auto;
+}

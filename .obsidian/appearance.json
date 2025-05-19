@@ -1,11 +1,12 @@
 {
   "cssTheme": "Obsidian gruvbox",
   "theme": "obsidian",
-  "accentColor": "#56ae71",
+  "accentColor": "#dc8f09",
   "textFontFamily": "Montserrat",
   "interfaceFontFamily": "Montserrat",
   "nativeMenus": false,
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font",
   "baseFontSize": 17,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
 }
