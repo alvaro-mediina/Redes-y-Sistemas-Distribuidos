@@ -1,4 +1,7 @@
 
+# Importante para ver
+[[🚗 Control de congestión en TCP]]
+
 # 🤧🚦Control de congestión
 Si un emisor manda a un receptor más información que la capacidad de carga de la subred, *la subred se congestionará* pues será incapaz de entregar los segmentos a la velocidad con que llegan.
 
