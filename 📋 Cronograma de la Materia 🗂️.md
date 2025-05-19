@@ -45,22 +45,22 @@
 - [x] **Jue 17/4/2025** - Semana santa
 
 ## **Parcial**
-- [ ] **Mar 22/4/2025** - Evaluación parcial 1
+- [x] **Mar 22/4/2025** - Evaluación parcial 1
 
 ## Red
-- [ ] **Jue 24/4/2025** - Red parte 1
-- [ ] **Mar 29/4/2025** - Red parte 2
+- [x] **Jue 24/4/2025** - Red parte 1
+- [x] **Mar 29/4/2025** - Red parte 2
 
 ## Feriado
-- [ ] **Jue 1/5/2025** - Día del trabajador
+- [x] **Jue 1/5/2025** - Día del trabajador
 
 ## Red
-- [ ] **Mar 6/5/2025** - Red parte 3
-- [ ] **Jue 8/5/2025** - Red parte 4
+- [x] **Mar 6/5/2025** - Red parte 3
+- [x] **Jue 8/5/2025** - Red parte 4
 
 ## Enlace
-- [ ] **Mar 13/5/2025** - Enlace parte 1
-- [ ] **Jue 15/5/2025** - Enlace parte 2
+- [x] **Mar 13/5/2025** - Enlace parte 1
+- [x] **Jue 15/5/2025** - Enlace parte 2
 
 ## Semana de mayo
 - [ ] **Mar 20/5/2025** - Semana de mayo
@@ -86,19 +86,19 @@
 
 ## Lab1
 - [x] **Mar 18/3/2025** - Lab 1 (deadline entrega Lab 0)
-- [ ] **Jue 20/3/2025** - Lab 1
+- [x] **Jue 20/3/2025** - Lab 1
 
 ## Lab2
-- [ ] **Mar 25/3/2025** - Lab 2 (deadline entrega Lab 1)
-- [ ] **Jue 27/3/2025** - Lab 2
-- [ ] **Mar 1/4/2025** - Lab 2
-- [ ] **Jue 3/4/2025** - Lab 2
-- [ ] **Mar 8/4/2025** - Lab 2 (deadline entrega Lab 2)
-- [ ] **Jue 10/4/2025** - Lab 2 (safety margin for deadline extension)
+- [x] **Mar 25/3/2025** - Lab 2 (deadline entrega Lab 1)
+- [x] **Jue 27/3/2025** - Lab 2
+- [x] **Mar 1/4/2025** - Lab 2
+- [x] **Jue 3/4/2025** - Lab 2
+- [x] **Mar 8/4/2025** - Lab 2 (deadline entrega Lab 2)
+- [x] **Jue 10/4/2025** - Lab 2 (safety margin for deadline extension)
 
 ## **Evaluación Lab1-2**
 - [ ] **Mar 15/4/2025** - **Evaluación Multiple opción Moodle Lab 1-2**
-- [ ] **Jue 17/4/2025** - Intro C++ y Omnet++
+- [x] **Jue 17/4/2025** - Intro C++ y Omnet++
 
 ## Lab3
 - [ ] **Mar 22/4/2025** - Lab 3

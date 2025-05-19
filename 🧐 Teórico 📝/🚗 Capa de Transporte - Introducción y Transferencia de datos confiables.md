@@ -1,3 +1,4 @@
+
 Provee comunicación lógica entre **procesos de aplicación** que ejecutan diferentes sistemas finales. Se implementa sólo en host/sistemas finales.
 Su **comunicación lógica** es como si los host ejecutando los procesos estuvieran directamente conectados.
 Sirven para **mejorar la calidad** de los servicios de la **Capa de Red**
@@ -328,11 +329,6 @@ Si no se ha presentado tráfico de regreso antes de que termine este temporizado
 para asegurarse que la ack de un paquete correctamente recibido llegue antes que el emisor termine su temporización y retransmita el paquete.
 
 ---
-
-
-
-
-
 
 # 🫗Control de flujo en la capa de transporte
 *Situación:* Evitar que un host emisor rápido desborde a un host receptor lento
