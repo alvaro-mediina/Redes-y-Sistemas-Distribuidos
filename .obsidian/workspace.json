@@ -8,49 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94d27c57edd1446f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧐 Teórico 📝/🌐 Capa de red - Inundación.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🌐 Capa de red - Inundación"
-            }
-          },
-          {
             "id": "03cd484aeb02038a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "🧐 Teórico 📝/🌐 Capa de red - Enrutamiento de estado de enlace.md",
-                "mode": "source",
-                "source": false
+                "file": "🧐 Teórico 📝/🌐 Capa de red/Capa de Red.md"
               },
-              "icon": "lucide-file",
-              "title": "🌐 Capa de red - Enrutamiento de estado de enlace"
-            }
-          },
-          {
-            "id": "494c92f9b1d2b9d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧐 Teórico 📝/🌐 Capa de red - Enrutamiento de estado de enlace.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🌐 Capa de red - Enrutamiento de estado de enlace"
+              "icon": "excalidraw-icon",
+              "title": "Capa de Red"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "fa53c70422f5d59e",
@@ -124,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧐 Teórico 📝/🖲️ Introducción 🧸.md",
+                "file": "🧐 Teórico 📝/🌐 Capa de red 📡 - Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 🖲️ Introducción 🧸"
+              "title": "Enlaces entrantes de 🌐 Capa de red 📡 - Introducción"
             }
           },
           {
@@ -143,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
-                "linksCollapsed": false,
+                "file": "🧐 Teórico 📝/🌐 Capa de red 📡 - Introducción.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes de 🌐 Capa de red 📡 - Introducción"
             }
           },
           {
@@ -172,16 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "🧐 Teórico 📝/🌐 Capa de red 📡 - Introducción.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienvenido"
+              "title": "Esquema de 🌐 Capa de red 📡 - Introducción"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,61 +159,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "494c92f9b1d2b9d2",
+  "active": "03cd484aeb02038a",
   "lastOpenFiles": [
-    "🧐 Teórico 📝/🌐 Capa de red - Enrutamiento de vector de distancia.md",
-    "🧐 Teórico 📝/🌐 Capa de red - Enrutamiento de estado de enlace.md",
-    "🧐 Teórico 📝/🌐 Capa de red - Inundación.md",
-    "🧐 Teórico 📝/🌐 Capa de red 📡 - Introducción.md",
-    "🤓 Redes y Sistemas Distribuidos 😲.md",
-    "🧐 Teórico 📝/🚗 Capa de transporte - Control de congestión.md",
-    "🧐 Teórico 📝/🧐 Resumen Filminas 🌉.md",
-    "🧐 Teórico 📝/🚗 Capa de Transporte - Problema de duplicados retrasados.md",
-    "🧐 Teórico 📝/🚗 Control de congestión en TCP.md",
-    "🧐 Teórico 📝/🚗 Capa de Transporte - Introducción y Transferencia de datos confiables.md",
-    "🧐 Teórico 📝/🚗 Capa de Transporte - Control de Flujo.md",
+    "Pasted Image 20251209095056_067.png",
+    "Pasted Image 20251209085152_100.png",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red 📡 - Introducción.md",
+    "🧐 Teórico 📝/🌐 Capa de red/Capa de Red.md",
+    "Excalidraw",
+    "Filminas/Capa de Red/9 - BGP.pdf",
+    "Filminas/Capa de Red/8 - Interredes.pdf",
+    "Filminas/Capa de Red/7 - OSPF.pdf",
+    "Filminas/Capa de Red/6 - IP y NAT.pdf",
+    "Filminas/Capa de Red/5 - Control de congestión.pdf",
+    "Filminas/Capa de Red/5 - control de congestión.pdf",
+    "Filminas/Capa de Red/4 - Enrutamiento de vector de distancia.pdf",
+    "Filminas/Capa de Red/3 - Enrutamiento de vector de distancia.pdf",
+    "Filminas/Capa de Red/3 - Enrutamiento de Estado de Enlace.pdf",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - OSPF.md",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - NAT.md",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - IPv6.md",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - IPv4.md",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - Inundación.md",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - Interredes.md",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - Enrutamiento de vector de distancia.md",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - Enrutamiento de estado de enlace.md",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - Control de congestión.md",
+    "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - BGP.md",
     "🤓 Conceptos Teóricos Importantes 📚.md",
-    "🧐 Teórico 📝/🖲️ Introducción 🧸.md",
-    "📚 Libros de la materia/Filminas-Introducción.pdf",
-    "📋 Cronograma de la Materia 🗂️.md",
-    "🧐 Teórico 📝/🔗 Capa de enlace de datos - Generalidades.md",
-    "🧐 Teórico 📝/🚗 Capa de transporte - 3.md",
-    "🧐 Teórico 📝/🕹️ Capa de Aplicación 🧩.md",
-    "🧐 Teórico 📝/🖇️ 📦 Capa de aplicación de blockchain.md",
+    "🤓 Redes y Sistemas Distribuidos 😲.md",
+    "🧐 Teórico 📝/🔗Capa de enlace de datos/🔗 Capa de enlace de datos - Control de colisiones en redes cableadas.md",
+    "🧐 Teórico 📝/🔗Capa de enlace de datos/🔗 Capa de enlace de datos - Generalidades.md",
+    "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Capa de transporte - Control de congestión.md",
     "🧐 Teórico 📝/🙂‍↕️ Sistemas Operativos de Red.md",
+    "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Control de congestión en TCP.md",
+    "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Capa de Transporte - Problema de duplicados retrasados.md",
+    "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Capa de Transporte - Introducción y Transferencia de datos confiables.md",
+    "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Capa de Transporte - Control de Flujo.md",
+    "📝 Estudio Parcial - 2.md",
     "🧐 Teórico 📝/imgs/Pasted image 20250506155528.png",
     "🧐 Teórico 📝/imgs/Pasted image 20250330214626.png",
     "🧐 Teórico 📝/imgs/Pasted image 20250323214407.png",
-    "redes25lab3g03/redes25lab3g03",
-    "redes25lab3g03/out/clang-release/redes25lab3g03",
-    "redes25lab3g03/out/clang-release/redes25lab3g03.tmpaebf9dc",
-    "redes25lab3g03/out/clang-release/Sink.o",
-    "redes25lab3g03/out/clang-release/Sink.o.d",
-    "redes25lab3g03/out/clang-release/Sink-b01c4427.o.tmp",
-    "redes25lab3g03/out/clang-release/Queue.o",
-    "redes25lab3g03/out/clang-release/Queue.o.d",
-    "redes25lab3g03/out/clang-release/Queue-c5e809b1.o.tmp",
     "🧐 Teórico 📝/imgs/encabezado.png",
-    "🧐 Teórico 📝/🚗Capa de Transporte.md",
     "Pasted image 20250408151940.png",
     "Pasted image 20250408145807.png",
     "Pasted image 20250408150316.png",
     "Pasted image 20250408150314.png",
-    "Pasted image 20250408145836.png",
-    "🧪 Laboratorios 🧪/🧪Lab2/lolo/redes25lab2g03/README.md",
-    "Sin título 1.md",
-    "templ/Hola Mundo.md",
-    "🧐 Teórico 📝/imgs/image.png",
-    "🧪 Laboratorios 🧪/🧪Lab0/🧪Lab0 - Aplicación Cliente 🧪.md",
-    "🧪 Laboratorios 🧪/🧪 Laboratorios 🧪.md",
-    "🧪 Laboratorios 🧪/🧪Lab1/redes25lab1g03/venv/lib/python3.12/site-packages/flask/sansio/README.md"
+    "Pasted image 20250408145836.png"
   ]
 }
