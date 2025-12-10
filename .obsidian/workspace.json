@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0493f524d34fa26",
+        "id": "377ff7caa3a502ea",
         "type": "tabs",
         "children": [
           {
-            "id": "03cd484aeb02038a",
+            "id": "17b68910c8ed549a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 215.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa53c70422f5d59e",
@@ -169,12 +170,13 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "03cd484aeb02038a",
+  "active": "17b68910c8ed549a",
   "lastOpenFiles": [
+    "🧐 Teórico 📝/🌐 Capa de red/Capa de Red.md",
+    "Pasted Image 20251209143226_184.png",
     "Pasted Image 20251209095056_067.png",
     "Pasted Image 20251209085152_100.png",
     "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red 📡 - Introducción.md",
-    "🧐 Teórico 📝/🌐 Capa de red/Capa de Red.md",
     "Excalidraw",
     "Filminas/Capa de Red/9 - BGP.pdf",
     "Filminas/Capa de Red/8 - Interredes.pdf",
@@ -212,8 +214,6 @@
     "🧐 Teórico 📝/imgs/encabezado.png",
     "Pasted image 20250408151940.png",
     "Pasted image 20250408145807.png",
-    "Pasted image 20250408150316.png",
-    "Pasted image 20250408150314.png",
-    "Pasted image 20250408145836.png"
+    "Pasted image 20250408150316.png"
   ]
 }
