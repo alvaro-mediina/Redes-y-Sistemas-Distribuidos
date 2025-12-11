@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "377ff7caa3a502ea",
+        "id": "44bf205bd95d9280",
         "type": "tabs",
         "children": [
           {
-            "id": "17b68910c8ed549a",
+            "id": "4519879c94bbdb7d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "🧐 Teórico 📝/🌐 Capa de red/Capa de Red.md"
+                "file": "🧐 Teórico 📝/🔗Capa de enlace de datos/Capa de enlace.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Capa de Red"
+              "title": "Capa de enlace.excalidraw"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "fa53c70422f5d59e",
@@ -170,23 +169,34 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "17b68910c8ed549a",
+  "active": "4519879c94bbdb7d",
   "lastOpenFiles": [
-    "🧐 Teórico 📝/🌐 Capa de red/Capa de Red.md",
-    "Pasted Image 20251209143226_184.png",
-    "Pasted Image 20251209095056_067.png",
-    "Pasted Image 20251209085152_100.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251211115005_028.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251211112727_802.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251211112600_622.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251211105356_043.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251211102247_706.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251211100507_083.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251210083659_783.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251210083630_415.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251210074201_556.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251209143226_184.png",
+    "🧐 Teórico 📝/imgs/Pasted Image 20251209095056_067.png",
+    "🧐 Teórico 📝/🔗Capa de enlace de datos/🔗 Capa de enlace de datos - Generalidades.md",
+    "🧐 Teórico 📝/🔗Capa de enlace de datos/Capa de enlace.excalidraw.md",
+    "Filminas/Capa de Enlace",
+    "🧐 Teórico 📝/🌐 Capa de red/Capa de Red.excalidraw.md",
+    "Excalidraw/Capa-de-red.excalidraw.md",
     "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red 📡 - Introducción.md",
+    "Filminas/Introducción/Introducción 2.pdf",
+    "Filminas/Introducción/Introducción 1.pdf",
+    "Filminas/Introducción",
     "Excalidraw",
     "Filminas/Capa de Red/9 - BGP.pdf",
     "Filminas/Capa de Red/8 - Interredes.pdf",
     "Filminas/Capa de Red/7 - OSPF.pdf",
     "Filminas/Capa de Red/6 - IP y NAT.pdf",
     "Filminas/Capa de Red/5 - Control de congestión.pdf",
-    "Filminas/Capa de Red/5 - control de congestión.pdf",
-    "Filminas/Capa de Red/4 - Enrutamiento de vector de distancia.pdf",
-    "Filminas/Capa de Red/3 - Enrutamiento de vector de distancia.pdf",
-    "Filminas/Capa de Red/3 - Enrutamiento de Estado de Enlace.pdf",
     "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - OSPF.md",
     "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - NAT.md",
     "🧐 Teórico 📝/🌐 Capa de red/🌐 Capa de red - IPv6.md",
@@ -200,20 +210,12 @@
     "🤓 Conceptos Teóricos Importantes 📚.md",
     "🤓 Redes y Sistemas Distribuidos 😲.md",
     "🧐 Teórico 📝/🔗Capa de enlace de datos/🔗 Capa de enlace de datos - Control de colisiones en redes cableadas.md",
-    "🧐 Teórico 📝/🔗Capa de enlace de datos/🔗 Capa de enlace de datos - Generalidades.md",
     "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Capa de transporte - Control de congestión.md",
     "🧐 Teórico 📝/🙂‍↕️ Sistemas Operativos de Red.md",
     "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Control de congestión en TCP.md",
     "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Capa de Transporte - Problema de duplicados retrasados.md",
     "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Capa de Transporte - Introducción y Transferencia de datos confiables.md",
     "🧐 Teórico 📝/🚗 Capa de transporte/🚗 Capa de Transporte - Control de Flujo.md",
-    "📝 Estudio Parcial - 2.md",
-    "🧐 Teórico 📝/imgs/Pasted image 20250506155528.png",
-    "🧐 Teórico 📝/imgs/Pasted image 20250330214626.png",
-    "🧐 Teórico 📝/imgs/Pasted image 20250323214407.png",
-    "🧐 Teórico 📝/imgs/encabezado.png",
-    "Pasted image 20250408151940.png",
-    "Pasted image 20250408145807.png",
-    "Pasted image 20250408150316.png"
+    "📝 Estudio Parcial - 2.md"
   ]
 }
